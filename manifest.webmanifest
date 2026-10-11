@@ -1,8 +1,8 @@
 {
-  "id": "/batch-book/",
+  "id": "/batch-book/?app=grow73-batch-book",
   "name": "Batch Book",
   "short_name": "Batch Book",
-  "start_url": "/batch-book/",
+  "start_url": "/batch-book/?app=grow73-batch-book",
   "scope": "/batch-book/",
   "display": "standalone",
   "background_color": "#F3F7F7",
